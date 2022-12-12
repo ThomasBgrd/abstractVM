@@ -1,0 +1,10 @@
+push bigdecimal(2222)
+push bigdecimal(3333)
+dump
+add
+dump
+push bigdecimal(2000)
+sub
+dump
+pop
+exit
